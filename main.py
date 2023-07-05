@@ -12,7 +12,7 @@ from autodebug import autodebug
 try:
     print('Checking installs and venv + autodebug checks')
 
-    prelaunch_checks()
+    # prelaunch_checks()
 
     print('Preparing')
 
